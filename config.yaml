@@ -1,7 +1,7 @@
 ---
-version: 12.5.4
-slug: samba
-name: Samba share
+version: 0.1.0
+slug: advanced_smb
+name: Advanced Samba Share
 description: Expose Home Assistant folders with SMB/CIFS
 url: https://github.com/home-assistant/addons/tree/master/samba
 arch:
